@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: Mali's Blog
+subtitle: 'Hello World!'
 description: ''
 keywords:
 author: Li Ma
-language: zh
+language: zh_cn
 timezone: ''
 
 # URL
