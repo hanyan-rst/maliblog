@@ -104,9 +104,15 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: anatole
 
+#订阅RSS
+feed:
+  type: rss2
+  path: rss2.xml
+  limit: false
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: git@github.com:hanyan-rst/mali.github.io.git
-  branch: master
+#  type: 'git'
+#  repo: git@github.com:hanyan-rst/mali.github.io.git
+#  branch: master
