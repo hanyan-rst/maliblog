@@ -1,7 +1,7 @@
 ---
 title: FreePBX接入上海移动固话IMS
 abbrlink: b4f33810
-date: 2026-02-20 12:16:07
+date: 2026-02-20 13:01:07
 tags:
 ---
 
