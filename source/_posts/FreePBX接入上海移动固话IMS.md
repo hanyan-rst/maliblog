@@ -5,16 +5,16 @@ date: 2026-02-20 13:01:07
 tags:
 ---
 
-# 0x00 前言
+### 0x00 前言
 
 上海移动的固话和很多运营商一样，是IMS网络，这里记录一下如何用FreePBX接入上海移动固话。
 
-# 0x01 准备
+### 0x01 准备
 
 - FreePBX
 - 获得的IMS鉴权密码
 
-# 0x02 配置
+### 0x02 配置
 
 将语音VLAN透传给FreePBX，使用DHCP获取语音业务IP和DNS。解析sbc.chinamobile.com获得Outbound Proxy IP地址。这里的sbc.chinamobile.com每个省份可能不同，按照自己光猫配置获得。
 
